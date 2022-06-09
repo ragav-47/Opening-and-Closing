@@ -58,13 +58,14 @@ plt.show()
 ## OUTPUT:
 
 ### Display the input Image
-![image](https://user-images.githubusercontent.com/75234991/169961348-93896037-193f-4923-8629-14d2fa9dff54.png)
+![1](https://user-images.githubusercontent.com/75235488/172897744-565ee9b1-22e4-48ba-9134-50d2ce90dd0c.png)
 
 ### Display the result of Opening
-![image](https://user-images.githubusercontent.com/75234991/169961369-8090964d-29b9-4c8e-87ca-d5f211116173.png)
+![2](https://user-images.githubusercontent.com/75235488/172897776-5ce5e28a-6442-43c4-9649-3cb34f13d285.png)
 
 ### Display the result of Closing
-![image](https://user-images.githubusercontent.com/75234991/169961396-ca778063-36bd-4444-b786-8c22dc81b0b7.png)
+
+![3](https://user-images.githubusercontent.com/75235488/172897813-d30e7b2a-eaf1-4f2e-ae51-62ddf1cc404c.png)
 
 ## RESULT:
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
