@@ -21,6 +21,8 @@ Use Opening operation.
 ### Step 5:
 Use Closing Operation.
 
+<br/><br/><br/><br/><br/>
+
 ## PROGRAM:
 ```
 /*
@@ -58,6 +60,8 @@ plt.imshow(image_close)
 plt.show()
 
 ```
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 ## OUTPUT:
 
 ### Display the input Image
